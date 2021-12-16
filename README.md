@@ -11,7 +11,7 @@ So we can do the following:
 AND
   0000001
 
-The,
+Then,
 
   1001010
   0000010
